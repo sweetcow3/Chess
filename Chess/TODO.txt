@@ -1,0 +1,15 @@
+add the special moves
+	en passant -- done
+	castling -- done
+
+add checks and checkmate and stalemate -- done
+
+add legal moves -- done
+
+add scoring
+	capture points -- done
+	match history
+
+add timer
+
+add ai
